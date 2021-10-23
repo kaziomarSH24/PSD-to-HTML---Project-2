@@ -22,10 +22,12 @@
         text-align: center;
     }
     #banner_area .inner_main_text_banner h1 {
-        font-size: 50px;
+    font-size: 40px;
+    line-height: 60px;
     }
     #banner_area .inner_main_text_banner h2 {
-        font-size: 40px;
+    font-size: 30px;
+    line-height: 0;
     }
     #banner_area .banner_bottom p {
         height: auto;
