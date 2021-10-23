@@ -1,0 +1,62 @@
+@media only screen and (min-width: 200px) and (max-width:479px){
+    .slicknav_menu {
+        display: block;
+    }
+    #header_area {
+        padding: 25px 0;
+        text-align: center;
+    }
+    .col-md-4.logo_area {
+        margin-bottom: 25px;
+        margin-top: 5px;
+    }
+    .col-md-8.search_area {
+        display: flex;
+        justify-content: center;
+    }
+    .col-md-9.menu_area {
+        display: none;
+    }
+    #main_menu .social_area ul,
+    #footer_section .footer_bottom .fbr p {
+        text-align: center;
+    }
+    #banner_area .inner_main_text_banner h1 {
+        font-size: 50px;
+    }
+    #banner_area .inner_main_text_banner h2 {
+        font-size: 40px;
+    }
+    #banner_area .banner_bottom p {
+        height: auto;
+        text-align: center;
+    }
+    #client_section,
+    #latest_project_area {
+        padding: 25px 0; 
+    }
+    .col-md-3.client {
+        margin-top: 20px;
+    }
+    #latest_project_area p {
+        font-size: 16px;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+    #latest_project_area h2 {
+        font-size: 35px;
+        text-align: center;
+    }
+    #latest_project_area .child_project {
+        width: 100%;
+        padding: 15px;
+    }
+    #footer_section {
+        padding: 25px 0 0;
+    }
+    #footer_section .footer_bottom .fbl p {
+        text-align: center;
+        font-size: 13px;
+        margin-bottom: 10px;
+    }
+}
